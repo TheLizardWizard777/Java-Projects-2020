@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package ggg_period_scedule;
+
+/**
+ * @author gabriel.gore
+ *
+ */
+public class Period_scedule {
+
+	/**
+	 * 
+	 */
+	public Period_scedule() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
